@@ -1,0 +1,21 @@
+{
+  "name": "pseo-11ty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @11ty/eleventy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "@11ty/eleventy-fetch": "^4.0.0",
+    "@sindresorhus/slugify": "^2.2.1",
+    "git-init": "^1.0.0"
+  }
+}
