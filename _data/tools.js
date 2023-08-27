@@ -2,7 +2,7 @@
 const EleventyFetch =  require("@11ty/eleventy-fetch");
 
 module.exports = async function () {
-let url = 'https://script.google.com/macros/s/AKfycby-my-mp8zc4JQ5SC9smcLVbc4_AxoMUjc7iu8b6NNe8Tei2e4aQPZB5xUKpH6UkAJE/exec';
+let url = 'https://script.google.com/macros/s/AKfycbwXVfhIoJ8uG9EmBy6BGXSK-QOoMly1USRkI4ySsl5r4jIBrTGRscgeDScxPpxiR59J/exec';
 
 const response = await EleventyFetch(url, {
 duration: "1d",
