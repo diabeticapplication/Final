@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Diabetes 
 layout: base.html 
 ---
 Hello! Welcome to the website of Diabetes Healthcare. We aspire to cover the information, news and the frequently asked questions sorrounding <strong>"Diabetes"</strong>.
