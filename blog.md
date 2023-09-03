@@ -3,7 +3,7 @@ layout: base.html
 title: Blog Section
 pagination:
   data: collections.tools
-  size: 500
+  size: 1000
   alias: tools
 ---
 
